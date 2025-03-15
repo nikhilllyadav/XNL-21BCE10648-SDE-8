@@ -1,7 +1,9 @@
 ##  SDE TASK 8: SUPER‑ADVANCED CODE QUALITY, AUTOMATED TESTING & CONTINUOUS INTEGRATION
 
 ## 📌 Project Overview
-This project is a **Vite-powered React application** built with **TypeScript** and enhanced with a **fully automated CI/CD pipeline**. The application includes a **dark-themed interactive dashboard** that provides real-time insights.
+Established a highly complex and optimized CI/CD pipeline that automates code quality checks, integrates AI-driven code review, performs multi-environment testing, ensures reliable deployment, and incorporates continuous monitoring for the entire development lifecycle. The system should offer an interactive and highly intuitive user interface to manage build, test, and deployment processes while also integrating AI agents to help with code improvement, testing, and performance optimization.
+
+**Live Link: https://xnl-21-bce-10648-sde-8.vercel.app/**
 
 ### Key Features:
 - **Automated CI/CD** via GitHub Actions 🚀
