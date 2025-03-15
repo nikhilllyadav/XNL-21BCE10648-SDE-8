@@ -1,4 +1,4 @@
-##  SDE TASK 8: SUPER‑ADVANCED CODE QUALITY, AUTOMATED TESTING & CONTINUOUS INTEGRATION
+##  SDE TASK 8: SUPER‑ADVANCED CODE QUALITY, AUTOMATED TESTING, & CONTINUOUS INTEGRATION
 
 ## 📌 Project Overview
 Established a highly complex and optimized CI/CD pipeline that automates code quality checks, integrates AI-driven code review, performs multi-environment testing, ensures reliable deployment, and incorporates continuous monitoring for the entire development lifecycle. The system should offer an interactive and highly intuitive user interface to manage build, test, and deployment processes while also integrating AI agents to help with code improvement, testing, and performance optimization.
@@ -6,10 +6,10 @@ Established a highly complex and optimized CI/CD pipeline that automates code qu
 **Live Link: https://xnl-21-bce-10648-sde-8.vercel.app/**
 
 ### Key Features:
-- **Automated CI/CD** via GitHub Actions 🚀
+- **Automated CI/CD** using Cypress 🚀
 - **Comprehensive Testing** (Unit, E2E, Load Testing) ✅
-- **Security & Vulnerability Scanning** 🔍
-- **Interactive Dashboard** with real-time data 📊
+- **Security & Vulnerability Scanning using Snyk & OWASP ZAP** 🔍
+- **Interactive Dashboard** with directions to establish testing📊
 - **Deployed on Vercel for seamless delivery** 🌍
 
 ## 🛠️ Tech Stack & Use Cases
@@ -19,7 +19,7 @@ Established a highly complex and optimized CI/CD pipeline that automates code qu
 | **Vite + React + TypeScript** | Fast and modern frontend development |
 | **Tailwind CSS** | Utility-first CSS framework for efficient styling |
 | **Cypress** | End-to-end (E2E) testing framework for UI validation |
-| **JMeter** | Load testing tool to analyze system performance under stress |
+| **JMeter** | Load-testing tool to analyze system performance under stress |
 | **Snyk** | Security tool for scanning dependencies for vulnerabilities |
 | **OWASP ZAP** | Web security scanner to detect potential threats |
 | **GitHub Actions** | Automates testing, security scans, and deployments |
@@ -29,8 +29,8 @@ Established a highly complex and optimized CI/CD pipeline that automates code qu
 
 1️⃣ **Clone the Repository**
 ```bash
-git clone 
-cd vit-test
+git clone https://github.com/nikhilllyadav/XNL-21BCE10648-SDE-8/edit/main/README.md
+cd XNL-21BCE10648-SDE-8
 ```
 
 2️⃣ **Install Dependencies**
@@ -42,7 +42,7 @@ npm install
 ```bash
 npm run dev
 ```
-Now visit **[http://localhost:5173](http://localhost:5173)** to access the application.
+Now, visit **[http://localhost:5173](http://localhost:5173)** to access the application.
 
 ## 🏗️ Interactive Dashboard
 The application features a **modern, interactive dashboard** with a **dark-themed UI** and **vibrant elements** for improved readability. Key functionalities include:
